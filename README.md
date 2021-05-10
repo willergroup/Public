@@ -1,3 +1,3 @@
 # Overview
 
-This contains GWAS summary statistics
+Public data from Willer lab
